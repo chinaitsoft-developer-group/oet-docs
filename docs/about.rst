@@ -9,7 +9,7 @@
 ---------
 mysql::
 
-- 
+mysql-5.1.71（可以是更高的版本） 
 
 redis
 TODO: here
