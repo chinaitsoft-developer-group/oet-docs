@@ -7,14 +7,11 @@
 
 插件版本
 ---------
-mysql::
 
-  mysql-5.1.71（可以是更高的版本） 
-python::
-  python-2.7.9
+- mysql: mysql-5.1.71（可以是更高的版本） 
+- python: python-2.7.9
+- redis: TODO
 
-
-redis
-TODO: here
 influxdb
 oic
+else...
