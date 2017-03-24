@@ -10,6 +10,7 @@
 mysql::
 
   mysql-5.1.71（可以是更高的版本） 
+  python-2.7.9
 
 redis
 TODO: here
