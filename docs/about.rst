@@ -8,7 +8,6 @@
 插件版本
 ---------
 
-<<<<<<< HEAD
 - mysql: mysql-5.1.71（可以是更高的版本） 
 - python: python-2.7.9
 - redis: redis-1.1.1
