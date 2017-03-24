@@ -10,11 +10,14 @@
 mysql::
 
   mysql-5.1.71（可以是更高的版本） 
+
 python::
+
   python-2.7.9
+
 redis::
 
-  redis-1.1.1
+ redis-3.2.6
 TODO: here
 influxdb
 oic
