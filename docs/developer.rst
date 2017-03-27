@@ -63,6 +63,7 @@ Archive data in Influx Database，向InfluxDB中归档数据相关的内容:
 添加完成后，点击保存。
 
 重启监控对象:在Monitor Target表单中执行clear和create的监控选项
+
 重启并生效后，你可以登录用做归档的 InfluxDB 数据库，耐心等待一段时间后，查看是否正常抓取了数据过来。
 
 添加图
