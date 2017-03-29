@@ -2,6 +2,17 @@
 =========
 
 访问后台管理面板（右上角"更多" --> "进入后台"），或者直接访问 http://ip/admin ，修改相关配置。超级用户的用户名密码为 root / rootroot
+超级用户root在安装完产品之后需要手动创建的,创建过程如下::
+
+  # (oet) [root@oet oet]# ./manage.py createsuperuser
+  # (oet) [root@oet oet]# ./manage.py createsuperuser
+  # Username: root(默认名字叫做root，之前创建过root，所以不能再次创建)
+  # Error: That username is already taken.
+  # Username: root1
+  # Email address: 
+  # Password: 
+  # Password (again): 
+  # Superuser created successfully.
 
 创建用户
 ----------
